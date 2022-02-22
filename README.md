@@ -51,4 +51,4 @@ Here's a walkthrough of implemented user stories:
 
 
 
-<img src='https://github.com/lorenzomiro/Twitter-iOS/blob/main/Twitter%20iOS%20Part%201.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/lorenzomiro/Twitter-iOS/blob/main/Twitter/Twitter%20iOS%20Part%201.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
